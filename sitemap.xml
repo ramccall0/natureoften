@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ramccall0.github.io/natureoften/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://natureoften.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://ramccall0.github.io/natureoften/</loc>
+<loc>https://natureoften.com/</loc>
 </url>
 <url>
-<loc>https://ramccall0.github.io/natureoften/5-things-to-know-about-a-german-shepherds-awkward-stage.html</loc>
+<loc>https://natureoften.com/5-things-to-know-about-a-german-shepherds-awkward-stage.html</loc>
 <lastmod>2022-02-17T14:36:13-06:00</lastmod>
 <image:image>
-<image:loc>https://ramccall0.github.io/natureoften/media/posts/4/5EB532D1-9B78-459B-A8D5-1899E9AA2557-549x1024.jpeg</image:loc>
+<image:loc>https://natureoften.com/media/posts/4/5EB532D1-9B78-459B-A8D5-1899E9AA2557-549x1024.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://ramccall0.github.io/natureoften/about.html</loc>
+<loc>https://natureoften.com/about.html</loc>
 <lastmod>2022-02-17T14:36:13-06:00</lastmod>
 <image:image>
-<image:loc>https://ramccall0.github.io/natureoften/media/posts/2/IMG_1467-1.jpg</image:loc>
+<image:loc>https://natureoften.com/media/posts/2/IMG_1467-1.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://ramccall0.github.io/natureoften/german-shepherd-with-white-on-chest-or-is-it-possible.html</loc>
+<loc>https://natureoften.com/german-shepherd-with-white-on-chest-or-is-it-possible.html</loc>
 <lastmod>2022-02-17T14:36:13-06:00</lastmod>
 <image:image>
-<image:loc>https://ramccall0.github.io/natureoften/media/posts/3/IMG_3453-549x1024.jpg</image:loc>
+<image:loc>https://natureoften.com/media/posts/3/IMG_3453-549x1024.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://ramccall0.github.io/natureoften/our-blog.html</loc>
+<loc>https://natureoften.com/our-blog.html</loc>
 <lastmod>2022-02-17T14:36:13-06:00</lastmod>
 </url>
 </urlset>
