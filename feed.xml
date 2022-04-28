@@ -541,44 +541,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>Our Blog</title>
-        <author>
-            <name>Nature Often</name>
-        </author>
-        <link href="https://natureoften.com/our-blog.html"/>
-        <id>https://natureoften.com/our-blog.html</id>
-
-        <updated>2022-02-17T14:36:13-06:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2>Animal Posts</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:kadence/posts {"uniqueID":"_9f3f19-b9","categories":[{"value":3,"label":"Animals"}]} /--></p>
-<p><!-- wp:paragraph --></p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:kadence/rowlayout {"uniqueID":"_6d454c-67","columns":1,"colLayout":"equal","inheritMaxWidth":true} --></p>
-<div class="wp-block-kadence-rowlayout alignnone">
-<div id="kt-layout-id_6d454c-67" class="kt-row-layout-inner kt-layout-id_6d454c-67">
-<div class="kt-row-column-wrap kt-has-1-columns kt-gutter-default kt-v-gutter-default kt-row-valign-top kt-row-layout-equal kt-tab-layout-inherit kt-m-colapse-left-to-right kt-mobile-layout-row kb-theme-content-width"><p><!-- wp:kadence/column {"uniqueID":"_1de0bd-6f"} --></p>
-<div class="wp-block-kadence-column inner-column-1 kadence-column_1de0bd-6f">
-<div class="kt-inside-inner-col"></div>
-</div>
-<p>
-<!-- /wp:kadence/column --></div>
-</div>
-</div>
-<p>
-<!-- /wp:kadence/rowlayout --></p>
-
-            ]]>
-        </content>
-    </entry>
 </feed>
